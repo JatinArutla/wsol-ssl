@@ -1,8 +1,5 @@
 # Weakly Supervised Lung Disease Localization with Self-Supervised Representations and Mask-Guided Convolutional Networks
 
-## Venkata Raghavendra Jatin. ID: 2489352
-## Supervisor: Dr Jianbo Jiao
-
 The Chest X-ray data is available on Kaggle: https://www.kaggle.com/datasets/nih-chest-xrays/data. \
 
 The file named 'WSOL_maskguided_training.ipynb' consists of the main code for implementing the weakly supervised object localization framework. \
